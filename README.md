@@ -1,7 +1,7 @@
 ### Hi there, I'm Taha BASRI 👋
 
-![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Ftahabasri.github.io%2Fportfolio%2F)
-![Twitter Follow](https://img.shields.io/twitter/follow/TheTahaBasri?color=1DA1F2&label=Follow%20Taha%20on%20Twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Ftahabasri.github.io%2Fportfolio%2F)](https://tahabasri.github.io/portfolio/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheTahaBasri?color=1DA1F2&label=Follow%20Taha%20on%20Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%TahaBasri&screen_name=TheTahaBasri)
 
 ## I'm a Software Engineer, Junior Instructor & Cooking Guru!
 
