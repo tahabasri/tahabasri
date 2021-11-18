@@ -12,6 +12,8 @@ I write blogs about digital life @[medium](https://medium.com/@tahabasri) and bu
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can’t Find the Perfect Email Signature? Code Your Own!](https://medium.com/swlh/cant-find-the-perfect-email-signature-for-you-code-your-own-4c8d7f270362?source=rss-7247b7a29566------2)
+- [Manage Process as Code](https://medium.com/swlh/manage-process-as-code-faa03e4c24c1?source=rss-7247b7a29566------2)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...](https://tahabasri.medium.com/)
