@@ -9,18 +9,16 @@ I write blogs about digital life @[medium](https://medium.com/@tahabasri) and bu
 
 ---
 
-### Latest Blog Posts
+### Latest Blog Posts / Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Building LWR sites with Experience Cloud](https://youtu.be/JHejvTDp9Lg)
 - [Can’t Find the Perfect Email Signature? Code Your Own!](https://medium.com/swlh/cant-find-the-perfect-email-signature-for-you-code-your-own-4c8d7f270362?source=rss-7247b7a29566------2)
 - [Manage Process as Code](https://medium.com/swlh/manage-process-as-code-faa03e4c24c1?source=rss-7247b7a29566------2)
 <!-- BLOG-POST-LIST:END -->
-
-[more blog posts...](https://tahabasri.medium.com/)
-
 ---
 
 ### Contact & Support
 
-- 📫  How to reach me ? You can always reach me on my [Twitter account](https://twitter.com/TheTahaBasri) or via [LinkedIn](https://www.linkedin.com/in/tahabasri/en/).
+- 📫  How to reach me ? You can always reach me on my [X account](https://twitter.com/TheTahaBasri) or via [LinkedIn](https://www.linkedin.com/in/tahabasri/en/).
 - 💬  Feel free to contact me for any technical consulting, event partnership or any other question.
