@@ -1,11 +1,14 @@
 ### Hi there, I'm Taha BASRI 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Ftahabasri.github.io%2Fportfolio%2F)](https://tahabasri.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheTahaBasri?color=1DA1F2&label=Follow%20Taha%20on%20Twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=TheTahaBasri)
+Hey there! 👋 I'm a tech enthusiast with a passion for turning complex problems into elegant solutions. With a background as diverse as my Spotify playlist, I've journeyed from crafting Java applications to sculpting SaaS masterpieces with Salesforce.
 
-## I'm a Software Engineer, Junior Instructor & Cooking Guru!
+At CGI, I was like a wizard in the world of Java, bringing up enhancements and features for enterprise applications. Then, I joined team Oracle (like team Red Bull Racing did), where I helped automate processes faster than you can say "GraalVM".
 
-I write blogs about digital life @[medium](https://medium.com/@tahabasri) and build useful projects here at @[Github](https://github.com/tahabasri?tab=repositories).
+Now, as a Technical Consultant at Salesforce, I'm like a digital architect, designing and delivering tailored solutions using Salesforce's finest tools. Whether it's Experience Cloud, Commerce Cloud, or Lightning Web Components, I'm your go-to guru for all things Salesforce.
+
+Whether it's a chat about your next big idea or a request for some coding magic, I'm here to turn your tech dreams into reality, one line of code at a time. ✨
+
+> I write blogs about digital life @[medium](https://medium.com/@tahabasri) and build useful projects here at @[Github](https://github.com/tahabasri?tab=repositories).
 
 ---
 
